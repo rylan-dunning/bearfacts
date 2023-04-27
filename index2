@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Bear Facts</title>
+  </head>
+  <body>
+    <h1>Bear Facts</h1>
+    <ul>
+      <li>The polar bear is the largest land carnivore in the world.</li>
+      <li>Bears have an excellent sense of smell, better than dogs.</li>
+      <li>
+        The sun bear is the smallest bear species, weighing only 60-145 pounds.
+      </li>
+      <li>
+        Bears are intelligent animals that can be taught to perform simple
+        tasks.
+      </li>
+      <li>Grizzly bears can run up to 35 miles per hour.</li>
+    </ul>
+  </body>
+</html>
